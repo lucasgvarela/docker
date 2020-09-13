@@ -8,8 +8,8 @@ Some tips:
 e.g.
 [lucas@lucasmachine email-worker-compose]$ docker-compose ps -a
 Name   Command   State   Ports
-------------------------------
-[lucas@lucasmachine email-worker-compose]$ docker-compose up -d --scale worker=3
+--
+$ docker-compose up -d --scale worker=3
 Creating network "email-worker-compose_banco" with the default driver
 Creating network "email-worker-compose_fila" with the default driver
 Creating network "email-worker-compose_web" with the default driver
