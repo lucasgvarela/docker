@@ -1,5 +1,5 @@
 # Docker course
-original content belong to https://www.udemy.com/course/curso-docker/
+original content belongs to https://www.udemy.com/course/curso-docker/
 
 I did small adaptions for learning purpose.
 
