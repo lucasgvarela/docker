@@ -1,5 +1,5 @@
 # Docker course
-Original content belongs to https://www.udemy.com/course/curso-docker/
+Original content belongs to https://www.udemy.com/course/curso-docker/ author Leonardo Moura Leitao
 
 I did small adaptions for learning purpose.
 
